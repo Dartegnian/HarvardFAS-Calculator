@@ -1,0 +1,13 @@
+E:\Harvard Computer Society\LoveLace2-HarvardCheckbox\LoveLace2-HarvardCheckbox\bin\x86\Debug\LoveLace2-HarvardCheckbox.exe.config
+E:\Harvard Computer Society\LoveLace2-HarvardCheckbox\LoveLace2-HarvardCheckbox\bin\x86\Debug\LoveLace2-HarvardCheckbox.exe
+E:\Harvard Computer Society\LoveLace2-HarvardCheckbox\LoveLace2-HarvardCheckbox\bin\x86\Debug\LoveLace2-HarvardCheckbox.pdb
+E:\Harvard Computer Society\LoveLace2-HarvardCheckbox\LoveLace2-HarvardCheckbox\bin\x86\Debug\LoveLace2-HarvardCheckbox.xml
+E:\Harvard Computer Society\LoveLace2-HarvardCheckbox\LoveLace2-HarvardCheckbox\obj\x86\Debug\LoveLace2_HarvardCheckbox.Classes.resources
+E:\Harvard Computer Society\LoveLace2-HarvardCheckbox\LoveLace2-HarvardCheckbox\obj\x86\Debug\LoveLace2_HarvardCheckbox.HFASCalc.resources
+E:\Harvard Computer Society\LoveLace2-HarvardCheckbox\LoveLace2-HarvardCheckbox\obj\x86\Debug\LoveLace2_HarvardCheckbox.Houses.resources
+E:\Harvard Computer Society\LoveLace2-HarvardCheckbox\LoveLace2-HarvardCheckbox\obj\x86\Debug\LoveLace2_HarvardCheckbox.Resources.resources
+E:\Harvard Computer Society\LoveLace2-HarvardCheckbox\LoveLace2-HarvardCheckbox\obj\x86\Debug\LoveLace2_HarvardCheckbox.Organizations.resources
+E:\Harvard Computer Society\LoveLace2-HarvardCheckbox\LoveLace2-HarvardCheckbox\obj\x86\Debug\LoveLace2-HarvardCheckbox.vbproj.GenerateResource.Cache
+E:\Harvard Computer Society\LoveLace2-HarvardCheckbox\LoveLace2-HarvardCheckbox\obj\x86\Debug\LoveLace2-HarvardCheckbox.exe
+E:\Harvard Computer Society\LoveLace2-HarvardCheckbox\LoveLace2-HarvardCheckbox\obj\x86\Debug\LoveLace2-HarvardCheckbox.xml
+E:\Harvard Computer Society\LoveLace2-HarvardCheckbox\LoveLace2-HarvardCheckbox\obj\x86\Debug\LoveLace2-HarvardCheckbox.pdb
