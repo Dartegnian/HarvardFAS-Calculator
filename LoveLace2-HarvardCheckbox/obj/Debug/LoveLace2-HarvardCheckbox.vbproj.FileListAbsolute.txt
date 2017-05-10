@@ -40,3 +40,17 @@ E:\Harvard Computer Society\LoveLace2-HarvardCheckbox\LoveLace2-HarvardCheckbox\
 E:\Harvard Computer Society\LoveLace2-HarvardCheckbox\LoveLace2-HarvardCheckbox\obj\Debug\LoveLace2_HarvardCheckbox.Resources.resources
 E:\Harvard Computer Society\LoveLace2-HarvardCheckbox\LoveLace2-HarvardCheckbox\obj\Debug\LoveLace2_HarvardCheckbox.Organizations.resources
 E:\Harvard Computer Society\LoveLace2-HarvardCheckbox\LoveLace2-HarvardCheckbox\obj\Debug\LoveLace2-HarvardCheckbox.vbproj.GenerateResource.Cache
+C:\Users\Dartegnian\Documents\GitHub\HarvardFAS-Calculator\LoveLace2-HarvardCheckbox\bin\Debug\LoveLace2-HarvardCheckbox.exe.config
+C:\Users\Dartegnian\Documents\GitHub\HarvardFAS-Calculator\LoveLace2-HarvardCheckbox\bin\Debug\LoveLace2-HarvardCheckbox.exe
+C:\Users\Dartegnian\Documents\GitHub\HarvardFAS-Calculator\LoveLace2-HarvardCheckbox\bin\Debug\LoveLace2-HarvardCheckbox.pdb
+C:\Users\Dartegnian\Documents\GitHub\HarvardFAS-Calculator\LoveLace2-HarvardCheckbox\bin\Debug\LoveLace2-HarvardCheckbox.xml
+C:\Users\Dartegnian\Documents\GitHub\HarvardFAS-Calculator\LoveLace2-HarvardCheckbox\obj\Debug\LoveLace2-HarvardCheckbox.vbprojResolveAssemblyReference.cache
+C:\Users\Dartegnian\Documents\GitHub\HarvardFAS-Calculator\LoveLace2-HarvardCheckbox\obj\Debug\LoveLace2_HarvardCheckbox.Classes.resources
+C:\Users\Dartegnian\Documents\GitHub\HarvardFAS-Calculator\LoveLace2-HarvardCheckbox\obj\Debug\LoveLace2_HarvardCheckbox.HFASCalc.resources
+C:\Users\Dartegnian\Documents\GitHub\HarvardFAS-Calculator\LoveLace2-HarvardCheckbox\obj\Debug\LoveLace2_HarvardCheckbox.Houses.resources
+C:\Users\Dartegnian\Documents\GitHub\HarvardFAS-Calculator\LoveLace2-HarvardCheckbox\obj\Debug\LoveLace2_HarvardCheckbox.Resources.resources
+C:\Users\Dartegnian\Documents\GitHub\HarvardFAS-Calculator\LoveLace2-HarvardCheckbox\obj\Debug\LoveLace2_HarvardCheckbox.Organizations.resources
+C:\Users\Dartegnian\Documents\GitHub\HarvardFAS-Calculator\LoveLace2-HarvardCheckbox\obj\Debug\LoveLace2-HarvardCheckbox.vbproj.GenerateResource.Cache
+C:\Users\Dartegnian\Documents\GitHub\HarvardFAS-Calculator\LoveLace2-HarvardCheckbox\obj\Debug\LoveLace2-HarvardCheckbox.exe
+C:\Users\Dartegnian\Documents\GitHub\HarvardFAS-Calculator\LoveLace2-HarvardCheckbox\obj\Debug\LoveLace2-HarvardCheckbox.xml
+C:\Users\Dartegnian\Documents\GitHub\HarvardFAS-Calculator\LoveLace2-HarvardCheckbox\obj\Debug\LoveLace2-HarvardCheckbox.pdb

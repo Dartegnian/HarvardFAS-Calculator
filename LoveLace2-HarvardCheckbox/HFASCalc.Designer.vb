@@ -85,7 +85,7 @@ Partial Class HFASCalc
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(196, 34)
         Me.Button1.TabIndex = 25
-        Me.Button1.Text = "Compute Overall Price"
+        Me.Button1.Text = "Compute"
         Me.Button1.UseVisualStyleBackColor = False
         '
         'OverallTuition
@@ -257,7 +257,7 @@ Partial Class HFASCalc
         '
         Me.HKeyID.BackColor = System.Drawing.Color.FromArgb(CType(CType(97, Byte), Integer), CType(CType(16, Byte), Integer), CType(CType(29, Byte), Integer))
         Me.HKeyID.BorderStyle = System.Windows.Forms.BorderStyle.None
-        Me.HKeyID.Font = New System.Drawing.Font("Segoe UI Light", 14.0!)
+        Me.HKeyID.Font = New System.Drawing.Font("Segoe UI Light", 12.0!)
         Me.HKeyID.ForeColor = System.Drawing.Color.White
         Me.HKeyID.Location = New System.Drawing.Point(621, 50)
         Me.HKeyID.Multiline = True
@@ -281,7 +281,7 @@ Partial Class HFASCalc
         '
         Me.HKeyPass.BackColor = System.Drawing.Color.FromArgb(CType(CType(97, Byte), Integer), CType(CType(16, Byte), Integer), CType(CType(29, Byte), Integer))
         Me.HKeyPass.BorderStyle = System.Windows.Forms.BorderStyle.None
-        Me.HKeyPass.Font = New System.Drawing.Font("Segoe UI Light", 15.0!)
+        Me.HKeyPass.Font = New System.Drawing.Font("Segoe UI Light", 12.0!)
         Me.HKeyPass.ForeColor = System.Drawing.Color.White
         Me.HKeyPass.Location = New System.Drawing.Point(804, 50)
         Me.HKeyPass.Multiline = True
@@ -314,6 +314,7 @@ Partial Class HFASCalc
         Me.Controls.Add(Me.MainPane)
         Me.Controls.Add(Me.Panel1)
         Me.Controls.Add(Me.Panel2)
+        Me.DoubleBuffered = True
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.MaximizeBox = False

@@ -423,6 +423,7 @@ Partial Class Classes
         Me.Controls.Add(Me.CheckBox1)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.PictureBox1)
+        Me.DoubleBuffered = True
         Me.Name = "Classes"
         Me.Size = New System.Drawing.Size(855, 534)
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()

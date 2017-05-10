@@ -1,5 +1,4 @@
-﻿Imports System.Reflection
-Public Class HFASCalc
+﻿Public Class HFASCalc
     Dim HClasses As New Classes
     Dim HOrgs As New Organizations
     Dim HHouses As New Houses
