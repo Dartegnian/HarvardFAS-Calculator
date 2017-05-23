@@ -1,6 +1,7 @@
 ﻿Public Class Houses
     Shared selectedHouse As String
     Shared selectedHousePrice As Integer
+    
     Public Shared Function GetHousePrice() As Integer
         Return selectedHousePrice
     End Function

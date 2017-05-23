@@ -1,9 +1,11 @@
 ﻿Public Class Organizations
     Shared selectedOrgsPrice As Integer
     Shared selectedOrgs As Integer
+
     Public Shared Function GetOrgsPrice() As Integer
         Return selectedOrgsPrice
     End Function
+
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         OrgsPrice.Text = "$" + selectedOrgsPrice.ToString()
     End Sub
@@ -127,5 +129,4 @@
         End Select
         OrgsSelected.Text = selectedOrgs
     End Sub
-
 End Class

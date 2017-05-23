@@ -1,9 +1,12 @@
 ﻿Public Class Classes
+
     Shared selectedClassessPrice As Integer
     Shared selectedClasses As Integer
+
     Public Shared Function GetClassesPrice() As Integer
         Return selectedClassessPrice
     End Function
+
     Private Sub CheckBox1_CheckedChanged(sender As Object, e As EventArgs) Handles CheckBox1.CheckedChanged
         Select Case (True)
             Case CheckBox1.Checked = True
