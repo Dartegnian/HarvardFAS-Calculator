@@ -1,3 +1,7 @@
+<p align="center">
+	<img src="https://3.bp.blogspot.com/-lbuFlLCOOxg/WnoDPA_LQRI/AAAAAAAACRM/IxYQ0XL2rZgBsETHOBCdrusn7MtCeWHkwCLcBGAs/s0/harvardcalc.jpg" alt="Harvard FAS calculator preview" title="The Harvard FAS calculator"/>
+</p>
+
 # Harvard Faculty of Arts and Sciences Calculator
 This is a program written in Visual Basic that I developed for my Graphical User Interface Programming (GUIPROG) class at Asia Pacific College. Our professor tasked us to make a program using Visual Basic that primarily uses checkboxes as a means of selection rather than radiobuttons.
 
